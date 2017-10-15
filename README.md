@@ -1,11 +1,11 @@
-# Découpage fichier STL - Python
-* projet ENSIMAG première année - Découpage de fichier stl - Python
+# Cutting of STL file - Python
+* First year ENSIMAG project - Cutting of STL file - Python
 
-## Utilisation : 
-en ligne de commande dans le répertoire approprié : 
-*python3 projet1.py {fichier stl} {nombre de tranche pour le découpage}
+## Usage : 
+in your terminal, in the adapted folder : 
+*python3 projet1.py {stl file} {number of slices for your cutting}
 
- * Oberver les fichiers svg créé dans le répertoir correspondant aux différentes coupes du fichier STL.
+ * You can now have a loot at the svg files created, corresponding to the slices of the STL file.
  
  
- Développé par Stenzel Cackowski et César Dumas.
+ Developed by Stenzel Cackowski and César Dumas.
